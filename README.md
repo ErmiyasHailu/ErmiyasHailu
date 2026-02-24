@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ermiyas 👋
 
-<!--
-**ErmiyasHailu/ErmiyasHailu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Graduate  
+📊 Focused on Data Analysis & Relational Databases  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- SQL (PostgreSQL)
+- Python (pandas, matplotlib)
+- Excel
+- Tableau (in progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- Hospital Appointment Management System (PostgreSQL + Python)
+- Soccer Performance Analytics (SQL)
+- Housing Data Analysis (Python & Excel)
+
+Currently completing the Google Data Analytics Professional Certificate.
